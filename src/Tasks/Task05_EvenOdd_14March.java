@@ -12,5 +12,6 @@ public class Task05_EvenOdd_14March {
             System.out.println("It is Even number");
         else
             System.out.println("It is Odd number");
+        scanner.close();
     }
 }
